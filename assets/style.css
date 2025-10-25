@@ -35,6 +35,7 @@ a {
 /* flex items nav */
 .topnav li {
     flex: 3;
+    color: black;
 }
 
 .topnav .social {
