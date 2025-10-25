@@ -161,6 +161,20 @@ hr {
     margin-left: 0
 }
 
+.card img {
+    display: block;
+    margin: auto;
+    width: 100%;
+    object-fit: contain;
+    border: 1px solid black;
+    /* box-shadow: 1px 1px black; */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
 
 /* @media all and (max-width: 1000px) {} */
 /* @media all and (max-width: 500px) {} */
