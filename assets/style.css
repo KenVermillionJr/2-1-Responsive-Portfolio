@@ -145,10 +145,16 @@ a {
 }
 
 textarea {
-    width: 40%;
+    width: 20%;
     height: 100px;
 }
 
-@media all and (max-width: 1000px) {}
+hr {
+    width: 100%;
+    text-align: left;
+    margin-left: 0
+}
 
-@media all and (max-width: 500px) {}
+
+/* @media all and (max-width: 1000px) {} */
+/* @media all and (max-width: 500px) {} */
