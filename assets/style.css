@@ -21,10 +21,11 @@ a {
     background-color: goldenrod;
     margin: 0;
     padding: 10px;
-    /* height: 50px; */
     list-style: none;
     display: flex;
     flex-wrap: wrap;
+    /* justify-content: center; */
+    max-width: 100vw;
 }
 
 /* flex items nav */
@@ -150,6 +151,28 @@ a {
     flex: 1 1 20%;
 }
 
-@media all and (max-width: 1000px) {}
+@media all and (max-width: 1000px) {
 
-@media all and (max-width: 500px) {}
+    /* flex items nav */
+    .topnav li {
+        font-weight: bolder;
+        flex: 3;
+    }
+
+    .topnav .social {
+        flex: 0.25;
+    }
+}
+
+@media all and (max-width: 500px) {
+
+    /* flex items nav */
+    .topnav li {
+        font-weight: bolder;
+        flex: 3;
+    }
+
+    .topnav .social {
+        flex: 0.25;
+    }
+}
