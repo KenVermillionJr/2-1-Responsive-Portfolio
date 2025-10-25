@@ -149,8 +149,12 @@ a {
 }
 
 textarea {
-    width: 175px;
+    width: 50%;
     height: 100px;
+}
+
+input {
+    width: 50%;
 }
 
 hr {
