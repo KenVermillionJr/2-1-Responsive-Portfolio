@@ -149,12 +149,12 @@ a {
 }
 
 textarea {
-    width: 35%;
+    width: 45%;
     height: 100px;
 }
 
 input {
-    width: 35%;
+    width: 45%;
 }
 
 hr {
@@ -179,7 +179,7 @@ ul {
 
 /* @media all and (max-width: 1000px) {} */
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 600px) {
     textarea {
         width: 75%;
         height: 100px;
