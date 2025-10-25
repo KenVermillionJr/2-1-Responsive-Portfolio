@@ -73,6 +73,7 @@ a:active {
 .topnav a {
     color: black;
     text-decoration: none;
+    font-weight: bold;
 }
 
 /* unvisited link */
