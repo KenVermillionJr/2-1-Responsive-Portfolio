@@ -177,7 +177,7 @@ a:active {
 
 #cardContainer {
     display: flex;
-    gap: 3rem;
+    gap: .25rem;
     flex-wrap: wrap;
     justify-content: flex-start;
 }
