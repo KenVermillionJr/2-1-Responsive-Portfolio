@@ -177,6 +177,16 @@ ul {
     padding: 0px;
 }
 
-
 /* @media all and (max-width: 1000px) {} */
-/* @media all and (max-width: 500px) {} */
+
+@media all and (max-width: 500px) {
+    textarea {
+        width: 50%;
+        height: 100px;
+    }
+
+    input {
+        width: 50%;
+    }
+
+}
