@@ -19,6 +19,28 @@ a {
     transition: all 0.5s;
 }
 
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+    background-color: gold;
+}
+
+/* selected link */
+a:active {
+    color: black;
+    background-color: gold;
+}
+
 /* flex container nav */
 .topnav ul {
     margin: 0;
@@ -48,32 +70,27 @@ a {
     object-fit: cover;
 }
 
-/* unvisited link */
-a:link {
-    color: black;
-}
-
-/* visited link */
-a:visited {
-    color: black;
-}
-
-/* mouse over link */
-a:hover {
-    color: gold;
-}
-
-/* selected link */
-a:active {
-    color: gold;
-}
-
 .topnav a {
     color: black;
     text-decoration: none;
 }
 
+/* unvisited link */
+.topnav a:link {
+    color: black;
+}
+
+/* visited link */
+.topnav a:visited {
+    color: black;
+}
+
 .topnav a:hover {
+    background: gold;
+    color: black;
+}
+
+.topnav a:active {
     background: gold;
     color: black;
 }
