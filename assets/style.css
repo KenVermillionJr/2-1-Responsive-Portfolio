@@ -181,12 +181,12 @@ ul {
 
 @media all and (max-width: 500px) {
     textarea {
-        width: 50%;
+        width: 75%;
         height: 100px;
     }
 
     input {
-        width: 50%;
+        width: 75%;
     }
 
 }
