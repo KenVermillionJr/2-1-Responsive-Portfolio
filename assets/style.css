@@ -5,8 +5,8 @@ body {
     margin: 0;
     color: #0f172a;
     background-color: #FCF5E5;
-    background: url(./parchmentbg.png) no-repeat fixed;
-    background-size: cover;
+    /* background: url(./parchmentbg.png) no-repeat fixed;
+    background-size: cover; */
 }
 
 a {
