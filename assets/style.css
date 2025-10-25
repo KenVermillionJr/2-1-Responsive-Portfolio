@@ -29,6 +29,7 @@ a {
 
 /* flex items nav */
 .topnav li {
+    font-weight: bolder;
     flex: 3;
 }
 
@@ -78,7 +79,7 @@ a {
 
 #sub {
     font-size: 1rem;
-    font-weight: 50;
+    font-weight: bold;
     color: midnightblue;
 }
 
