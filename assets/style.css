@@ -132,6 +132,7 @@ a:active {
     box-shadow: 2px 2px 2px black;
     margin: 0 0 15px 0;
     width: 40%;
+    max-width: 333px;
     padding: 12px;
     border-radius: 8px;
 }
