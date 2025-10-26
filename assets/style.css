@@ -58,7 +58,7 @@ a:active {
 .topnav li {
     flex: 3;
     color: black;
-    font-size: .75rem;
+    font-size: .85rem;
 }
 
 .topnav .social {
@@ -149,7 +149,7 @@ a:active {
     color: black;
     border: 1px solid black;
     font-weight: bold;
-    font-size: .75rem;
+    font-size: .85rem;
 }
 
 .footer .social {
