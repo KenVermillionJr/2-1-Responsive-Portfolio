@@ -1,3 +1,7 @@
+html {
+    font-size: 16px;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
@@ -58,7 +62,7 @@ a:active {
 .topnav li {
     flex: 3;
     color: black;
-    font-size: .90em;
+    font-size: .90rem;
 }
 
 .topnav .social {
@@ -149,7 +153,7 @@ a:active {
     color: black;
     border: 1px solid black;
     font-weight: bold;
-    font-size: .90em;
+    font-size: .90rem;
 }
 
 .footer .social {
