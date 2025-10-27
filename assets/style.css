@@ -150,7 +150,7 @@ a:active {
 }
 
 #skillsCardContainer article {
-    /* projects flex items */
+    /* skills flex items */
     margin-left: 20px;
     flex: 1 1 20%;
 }
