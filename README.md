@@ -1,8 +1,9 @@
 # Challenge — Portfolio Site (From Scratch)
 
 Solved: <br>
-<a href="https://raw.githack.com/KenVermillionJr/2-1-Responsive-Portfolio/refs/heads/main/index.html" target="_blank">View Portfolio via (Githack)</a> <br>
-<a href="https://kenvermillionjr.github.io/2-1-Responsive-Portfolio/index.html" target="_blank">View Portfolio via (GitHub live pages)</a>
+<a href="https://raw.githack.com/KenVermillionJr/2-1-Responsive-Portfolio/refs/heads/main/" target="_blank">View Portfolio via (Githack)</a> <br>
+<a href="https://kenvermillionjr.github.io/2-1-Responsive-Portfolio/" target="_blank">View Portfolio via (GitHub live pages)</a> <br>
+<a href="https://kenvermillionjr.github.io/2-1-Responsive-Portfolio/" target="_blank">View Portfolio via (self-hosted - official)</a> 
 
 **Goal:** Build a responsive personal portfolio using Flexbox and other CSS you know and deploy it on GitHub Pages.
 
