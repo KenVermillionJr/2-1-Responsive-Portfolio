@@ -1,4 +1,4 @@
-# Challenge — Bootstrap Portfolio Site (From Scratch)
+# Challenge — Portfolio Site (From Scratch)
 
 **Goal:** Build a responsive personal portfolio using Flexbox and other CSS you know and deploy it on GitHub Pages.
 
